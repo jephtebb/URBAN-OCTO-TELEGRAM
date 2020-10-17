@@ -201,4 +201,6 @@ p {
 section{
     display: inline;
 }
-
+aside{
+    display:inline;
+}
